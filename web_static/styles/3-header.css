@@ -3,13 +3,16 @@ header {
     height: 70px;
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
-    background-image: url(../images/logo.png);
+    background-image: url(../images/hbnb_logo1.png);
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: 20px 50%;
 }
-.icon {
+/*
+.image {
     margin-left: 20px;
     display: inline-block;
     vertical-align: middle;
-    background-image: url(../images/i);
+    background-image: url(../images/icon.png.png);
+
 }
