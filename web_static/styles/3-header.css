@@ -7,3 +7,8 @@ header {
     background-repeat: no-repeat;
     background-position: 20px 50%;
 }
+.hbnb_logo1 {
+    margin-left: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
